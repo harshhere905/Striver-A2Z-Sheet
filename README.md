@@ -28,6 +28,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0009-palindrome-number) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
