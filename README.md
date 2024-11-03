@@ -27,6 +27,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0007-reverse-integer) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
