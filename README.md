@@ -7,6 +7,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
+| [3451-string-compression-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
 | ------- |
