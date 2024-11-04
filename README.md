@@ -31,9 +31,18 @@ Repository to manage all problems and solutions of striver a2z sheet
 | ------- |
 | [0007-reverse-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
