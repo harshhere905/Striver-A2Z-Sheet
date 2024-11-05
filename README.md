@@ -15,6 +15,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [1127-last-stone-weight](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1127-last-stone-weight) |
@@ -27,6 +28,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 ## Math
