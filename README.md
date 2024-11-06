@@ -29,6 +29,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 | [1127-last-stone-weight](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1127-last-stone-weight) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 | ------- |
 | [0136-single-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
