@@ -31,6 +31,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 | [1127-last-stone-weight](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1127-last-stone-weight) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
@@ -49,6 +50,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
@@ -66,6 +68,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
 ## Simulation
 |  |
@@ -86,6 +89,7 @@ Repository to manage all problems and solutions of striver a2z sheet
 | ------- |
 | [0136-single-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
