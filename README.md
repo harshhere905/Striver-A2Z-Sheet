@@ -131,14 +131,17 @@ Repository to manage all problems and solutions of striver a2z sheet
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Dynamic Programming
 |  |
@@ -152,4 +155,8 @@ Repository to manage all problems and solutions of striver a2z sheet
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
