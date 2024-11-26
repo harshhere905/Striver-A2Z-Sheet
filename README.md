@@ -1,5 +1,5 @@
 # Striver-A2Z-Sheet
-Repository to manage all problems and solutions of striver a2z sheet
+This repository is my personal collection of problems and solutions from the Striver A2Z DSA sheet. It serves as a guide to help me practice and improve my Data Structures and Algorithms skills. Each problem is categorized by topic, and I’ve included my solutions and explanations for reference. I use this as a structured approach to mastering DSA and preparing for coding interviews.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
