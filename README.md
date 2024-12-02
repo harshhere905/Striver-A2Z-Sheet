@@ -8,6 +8,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3451-string-compression-iii) |
@@ -16,6 +17,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +126,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0031-next-permutation](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0088-merge-sorted-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
 ## Divide and Conquer
 |  |
