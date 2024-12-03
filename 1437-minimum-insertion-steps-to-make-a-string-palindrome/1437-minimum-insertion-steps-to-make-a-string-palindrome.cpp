@@ -1,7 +1,7 @@
 class Solution {
 public:
     int n;
-    int t[501][501];
+    int t[500][500];
     int solve(int i,int j,string &s){
         if(i>=j){
             return 0;
