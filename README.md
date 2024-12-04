@@ -26,6 +26,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0001-two-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -201,4 +202,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
