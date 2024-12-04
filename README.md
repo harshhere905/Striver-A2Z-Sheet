@@ -43,6 +43,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1293-three-consecutive-odds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
@@ -152,6 +153,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 ## Prefix Sum
 |  |
 | ------- |
