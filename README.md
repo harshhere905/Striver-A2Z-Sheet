@@ -31,6 +31,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -167,6 +168,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 ## Prefix Sum
@@ -195,6 +197,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0518-coin-change-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0518-coin-change-ii) |
