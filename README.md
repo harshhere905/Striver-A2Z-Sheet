@@ -87,6 +87,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0007-reverse-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0367-valid-perfect-square) |
@@ -189,6 +190,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -223,4 +225,8 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1370-count-number-of-nice-subarrays) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
