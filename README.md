@@ -237,4 +237,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
