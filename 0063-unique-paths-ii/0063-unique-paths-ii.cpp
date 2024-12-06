@@ -1,7 +1,7 @@
 class Solution {
 public:
-int t[101][101];
-    int solve(int i,int j,vector<vector<int>>grid,int m,int n){
+    int t[101][101];
+    int solve(int i,int j,vector<vector<int>>&grid,int m,int n){
         if(i>=m||j>=n||grid[i][j]==1){
             return 0;
         }
