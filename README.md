@@ -57,6 +57,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -131,6 +132,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0540-single-element-in-a-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
