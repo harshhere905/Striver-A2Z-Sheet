@@ -127,6 +127,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -253,4 +254,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3189-find-champion-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
