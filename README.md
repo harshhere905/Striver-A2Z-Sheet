@@ -48,6 +48,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0790-global-and-local-inversions](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0790-global-and-local-inversions) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1127-last-stone-weight](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1293-three-consecutive-odds) |
@@ -173,6 +174,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -212,6 +214,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0518-coin-change-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Union Find
 |  |
@@ -258,4 +261,12 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
