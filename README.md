@@ -292,4 +292,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
