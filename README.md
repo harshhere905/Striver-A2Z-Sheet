@@ -33,6 +33,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0051-n-queens](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0229-majority-element-ii) |
@@ -193,6 +195,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 ## Prefix Sum
