@@ -183,6 +183,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Divide and Conquer
@@ -303,4 +304,5 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
