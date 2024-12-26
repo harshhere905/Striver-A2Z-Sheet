@@ -36,6 +36,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0073-set-matrix-zeroes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
@@ -85,6 +86,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0001-two-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
@@ -191,6 +193,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 ## Matrix
@@ -211,6 +214,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
@@ -225,6 +229,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
