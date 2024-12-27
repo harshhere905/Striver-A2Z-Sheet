@@ -2,23 +2,17 @@ class Solution {
 public:
     int maxScoreSightseeingPair(vector<int>& values) {
         int n=values.size();
-        vector<int>sample(n);
-        sample[0]=values[0]+0;
-        for(int i=1;i<n;i++){
-             int sum=values[i]+i;
-             if(sum<sample[i-1]){
-                sample[i]=sample[i-1];
-             }
-             else{
-                sample[i]=sum;
-             }
-        }
-        int finalmax=INT_MIN;
+        priority_queue<int>qp;
+        qp.push(values[0]);
+        int finalans=INT_MIN;
         for(int j=1;j<n;j++){
+            int queue_top=qp.top();
             int diff=values[j]-j;
-            int finalsum=diff+sample[j-1];
-            finalmax=max(finalmax,finalsum);
+            int finalmax=queue_top+diff;
+            finalans=max(finalans,finalmax);
+            int temp=values[j]+j;
+            qp.push(temp);
         }
-        return finalmax;
+        return finalans;
     }
 };
