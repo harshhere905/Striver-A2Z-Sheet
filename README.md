@@ -114,6 +114,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0367-valid-perfect-square) |
+| [0382-linked-list-random-node](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0382-linked-list-random-node) |
 | [0790-global-and-local-inversions](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0790-global-and-local-inversions) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1370-count-number-of-nice-subarrays) |
@@ -314,5 +315,14 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0382-linked-list-random-node) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
