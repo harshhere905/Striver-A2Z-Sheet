@@ -37,6 +37,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0075-sort-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
@@ -196,6 +197,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
@@ -218,6 +220,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -234,6 +237,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -332,5 +336,6 @@ This repository is my personal collection of problems and solutions from the Str
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
