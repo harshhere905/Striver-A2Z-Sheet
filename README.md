@@ -328,6 +328,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0142-linked-list-cycle-ii) |
@@ -351,4 +352,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
