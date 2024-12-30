@@ -14,17 +14,12 @@ public:
         ListNode* temp=head;
         ListNode* p1=head;
         ListNode* p2=head;
-        int cnt=0;
         int total=0;
-        while(p1!=nullptr){
-            cnt++;
-            if(cnt==k){
-                break;
-            }
-            p1=p1->next;
-        }
         while(temp!=nullptr){
             total++;
+            if(total==k){
+                p1=temp;
+            }
             temp=temp->next;
         }
         int diff=(total-k)+1;
@@ -35,10 +30,7 @@ public:
             }
             p2=p2->next;
         }
-        int sample=0;
-        sample=p1->val;
-        p1->val=p2->val;
-        p2->val=sample;
+       swap(p1->val,p2->val);
         return head;
     }
 };
