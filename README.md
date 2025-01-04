@@ -355,6 +355,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
@@ -385,4 +386,5 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
