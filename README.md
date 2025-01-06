@@ -371,6 +371,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0725-split-linked-list-in-parts) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Reservoir Sampling
