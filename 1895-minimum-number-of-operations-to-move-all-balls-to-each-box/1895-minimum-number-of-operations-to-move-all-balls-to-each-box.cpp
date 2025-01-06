@@ -2,19 +2,18 @@ class Solution {
 public:
     vector<int> minOperations(string boxes) {
         vector<int>res;
+        vector<int>pos;
         for(int i=0;i<boxes.size();i++){
-            int cnt=0;
-           for(int j=0;j<i;j++){
-             if(boxes[j]=='1'){
-                cnt+=i-j;     
-             }
+           if(boxes[i]=='1'){
+            pos.push_back(i);
            }
-           for(int k=i+1;k<boxes.size();k++){
-             if(boxes[k]=='1'){
-                cnt+=k-i;
-             }
-           }
-        res.push_back(cnt);
+        }
+        for(int i=0;i<boxes.size();i++){
+            int sum=0;
+            for(int it:pos){
+                sum+=abs(i-it);
+            }
+            res.push_back(sum);
         }
         return res;
     }
