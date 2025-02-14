@@ -7,8 +7,7 @@ public:
             if (minheap.size() < 2) break; 
             long long first = minheap.top(); minheap.pop();
             long long second = minheap.top(); minheap.pop();
-           
-            long long newElement = first * 2 + second;
+            long long newElement = (min(first, second) * 2 + max(first, second));
             minheap.push(newElement);
             cnt++;
         }
