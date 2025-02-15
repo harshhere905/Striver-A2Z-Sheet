@@ -1,11 +1,21 @@
 class Solution {
 public:
+    bool canPartition(string s, int target, int index, int sum) {
+        if (index == s.length()) return sum == target;
+        int num = 0;
+        for (int i = index; i < s.length(); i++) {
+            num = num * 10 + (s[i] - '0');
+            if (num + sum > target) break;
+            if (canPartition(s, target, i + 1, sum + num)) return true;
+        }
+        return false;
+    }
     int punishmentNumber(int n) {
-        set<int>st={1,9,10,36,45,55,82,91,99,100,235,297,369,370,379,414,657,675,703,756,792,909,918,945,964,990,991,999,1000};
-        int ans=0;
-        for(int x:st){
-            if(x<=n){
-               ans+=x*x;
+        int ans = 0;
+        for (int i = 1; i <= n; i++) {
+            int square = i * i;
+            if (canPartition(to_string(square), i, 0, 0)) {
+                ans += square;
             }
         }
         return ans;
