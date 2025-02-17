@@ -1,18 +1,15 @@
 class Solution {
 public:
     vector<int> corpFlightBookings(vector<vector<int>>& bookings, int n) {
-        vector<int> res(n + 1, 0); // Extra index to handle boundary
-        
-        for (auto& b : bookings) {
-            res[b[0] - 1] += b[2]; // Add seats at start index
-            res[b[1]] -= b[2];     // Remove seats after end index
+        vector<int>prefix_sum(n+1,0);
+        for(auto b:bookings){
+            prefix_sum[b[0]-1]+=b[2];
+            prefix_sum[b[1]]-=b[2];
         }
-        
-        for (int i = 1; i < n; i++) {
-            res[i] += res[i - 1]; // Convert difference array to prefix sum
+        for(int i=1;i<prefix_sum.size();i++){
+             prefix_sum[i]+=prefix_sum[i-1];
         }
-        
-        res.pop_back(); // Remove extra index
-        return res;
+        prefix_sum.pop_back();
+        return prefix_sum;
     }
 };
