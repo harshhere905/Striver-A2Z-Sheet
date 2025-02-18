@@ -147,6 +147,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0009-palindrome-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0367-valid-perfect-square) |
@@ -185,6 +186,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0349-intersection-of-two-arrays) |
