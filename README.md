@@ -73,6 +73,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0792-binary-search](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
@@ -159,6 +160,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0382-linked-list-random-node](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
 | [0790-global-and-local-inversions](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0790-global-and-local-inversions) |
+| [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
