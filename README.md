@@ -38,6 +38,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0001-two-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0051-n-queens) |
@@ -186,6 +187,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
