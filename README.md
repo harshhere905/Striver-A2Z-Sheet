@@ -60,6 +60,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0229-majority-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -201,6 +202,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0278-first-bad-version) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0367-valid-perfect-square) |
@@ -278,6 +280,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
@@ -455,6 +458,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Recursion
 |  |
 | ------- |
@@ -469,4 +473,16 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
