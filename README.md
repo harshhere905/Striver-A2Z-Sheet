@@ -171,6 +171,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
@@ -512,4 +513,12 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
