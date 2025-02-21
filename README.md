@@ -436,6 +436,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0021-merge-two-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -475,6 +476,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
