@@ -135,6 +135,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0229-majority-element-ii) |
@@ -456,6 +457,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0206-reverse-linked-list) |
@@ -500,6 +502,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0838-design-linked-list) |
 ## Quickselect
@@ -526,4 +529,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0292-nim-game) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
