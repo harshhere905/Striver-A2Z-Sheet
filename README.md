@@ -109,6 +109,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
+| [2551-apply-operations-to-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -205,6 +206,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2551-apply-operations-to-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
@@ -291,6 +293,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Divide and Conquer
 |  |
