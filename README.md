@@ -9,6 +9,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
@@ -414,6 +415,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0084-largest-rectangle-in-histogram](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0503-next-greater-element-ii) |
@@ -520,6 +522,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0025-reverse-nodes-in-k-group](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
