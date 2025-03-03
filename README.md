@@ -83,6 +83,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0792-binary-search](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
+| [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
@@ -393,6 +394,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0322-coin-change](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0518-coin-change-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1063-best-sightseeing-pair) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -428,6 +430,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -436,6 +439,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0084-largest-rectangle-in-histogram](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
