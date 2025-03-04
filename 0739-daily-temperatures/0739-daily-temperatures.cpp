@@ -11,11 +11,12 @@ public:
             }
             if(st.empty()){
                 ans[i]=0;
+                st.push({temp[i],0});
             }
             else{
                 ans[i]=span;
+                st.push({temp[i],span});
             }
-            st.push({temp[i],span});
         }
         return ans;
     }
