@@ -433,6 +433,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -442,6 +443,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0084-largest-rectangle-in-histogram](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
@@ -545,6 +547,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0937-online-stock-span) |
 ## Quickselect
 |  |
 | ------- |
@@ -574,4 +577,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
