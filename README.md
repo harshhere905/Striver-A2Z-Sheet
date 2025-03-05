@@ -198,6 +198,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
