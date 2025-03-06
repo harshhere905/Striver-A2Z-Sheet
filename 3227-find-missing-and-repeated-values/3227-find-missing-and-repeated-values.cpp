@@ -2,15 +2,15 @@ class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         map<int,int>mp;
+        vector<int>ans;
         for(int i=0;i<grid.size();i++){
             for(int j=0;j<grid.size();j++){
+                if(mp.find(grid[i][j])!=mp.end()){
+                    ans.push_back(grid[i][j]);
+                }
+                else{
                 mp[grid[i][j]]++;
-            }
-        }
-        vector<int>ans;
-        for(auto it:mp){
-            if(it.second>1){
-                ans.push_back(it.first);
+                }
             }
         }
         int maxi=(mp.end()->first);
