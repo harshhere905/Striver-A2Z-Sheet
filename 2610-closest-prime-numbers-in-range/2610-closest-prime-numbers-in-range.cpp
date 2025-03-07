@@ -19,7 +19,7 @@ public:
             }
         }
         if(sample.size()<2){
-            return {-1,1};
+            return {-1,-1};
         }
         vector<int>ans = {-1,-1};
         int min_gap=INT_MAX;
