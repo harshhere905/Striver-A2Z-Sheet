@@ -195,6 +195,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0292-nim-game) |
@@ -411,6 +412,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -609,4 +611,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0937-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
