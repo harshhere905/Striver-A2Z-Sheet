@@ -1,30 +1,28 @@
 class Solution {
 public:
     int t[501][501];
-    int min_distance(string s1,string s2,int i,int j){
-        int m=s1.length();
-        int n=s2.length();
-        if(i==m){
-            return n-j;//insert
+    int min_distance(string s1,string s2,int m,int n){
+        if(m==0 || n==0){
+            return m+n;
         }
-        if(t[i][j]!=-1){
-            return t[i][j];
+        if(t[m][n]!=-1){
+            return t[m][n];
         }
-        if(j==n){
-            return m-i;//delete
-        }
-        if(s1[i]==s2[j]){
-            return t[i][j]= min_distance(s1,s2,i+1,j+1);
+        if(s1[m-1]==s2[n-1]){
+            return t[m][n]= min_distance(s1,s2,m-1,n-1);
         }
         else{
-        int del=1+min_distance(s1,s2,i+1,j);
-        int rep=1+min_distance(s1,s2,i+1,j+1);
-        int ins=1+min_distance(s1,s2,i,j+1);
-        return t[i][j] = min({del,ins,rep});
+        int del=1+min_distance(s1,s2,m-1,n);
+        int rep=1+min_distance(s1,s2,m-1,n-1);
+        int ins=1+min_distance(s1,s2,m,n-1);
+        return t[m][n] = min({del,ins,rep});
         }
     }
     int minDistance(string word1, string word2) {
+        int m,n;
+        m=word1.length();
+        n=word2.length();
         memset(t,-1,sizeof(t));
-        return min_distance(word1,word2,0,0);
+        return min_distance(word1,word2,m,n);
     }
 };
