@@ -6,6 +6,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0072-edit-distance) |
@@ -310,6 +311,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0061-rotate-list) |
@@ -417,6 +419,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
