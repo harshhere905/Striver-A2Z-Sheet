@@ -88,6 +88,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0747-min-cost-climbing-stairs) |
 | [0790-global-and-local-inversions](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
@@ -426,6 +427,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0494-target-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1063-best-sightseeing-pair) |
