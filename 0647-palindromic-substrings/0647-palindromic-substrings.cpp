@@ -1,24 +1,22 @@
 class Solution {
-  public:
-    int t[1001][1001];
-    bool solve(string& s,int i,int j){
-        if(i>=j){
-            return true;
-        }
-        if(t[i][j]!=-1){
-            return t[i][j];
-        }
-        if(s[i]==s[j]){
-            return t[i][j]= solve(s,i+1,j-1);
-        }
-        return t[i][j]=false;
-    }
-    int countSubstrings(string &s) {
+public:
+    int countSubstrings(string s) {
         int cnt=0;
-        memset(t,-1,sizeof(t));
-        for(int i=0;i<s.size();i++){
-            for(int j=i;j<s.size();j++){
-                if(solve(s,i,j)){
+        int n=s.size();
+        vector<vector<bool>>t(n,vector<bool>(n,false));
+        for(int len=1;len<=s.size();len++){
+            for(int i=0;i+len-1<s.size();i++){
+                int j=i+len-1;
+                if(i==j){
+                    t[i][j]=true;
+                }
+                else if(i+1==j){
+                   t[i][j]=(s[i]==s[j]);
+                }
+                else{
+                    t[i][j]=(s[i]==s[j] && (t[i+1][j-1]));
+                }
+            if(t[i][j]){
                     cnt++;
                 }
             }
