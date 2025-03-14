@@ -95,6 +95,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0790-global-and-local-inversions](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
+| [0907-koko-eating-bananas](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
@@ -269,6 +270,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0540-single-element-in-a-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
