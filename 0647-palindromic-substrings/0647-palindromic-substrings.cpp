@@ -3,7 +3,7 @@ public:
     int countSubstrings(string s) {
         int cnt=0;
         int n=s.size();
-        vector<vector<bool>>t(n,vector<bool>(n,false));
+        int t[1001][1001];
         for(int len=1;len<=s.size();len++){
             for(int i=0;i+len-1<s.size();i++){
                 int j=i+len-1;
