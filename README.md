@@ -86,6 +86,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0349-intersection-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0503-next-greater-element-ii) |
@@ -462,6 +463,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0213-house-robber-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0518-coin-change-ii) |
