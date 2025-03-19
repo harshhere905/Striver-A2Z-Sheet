@@ -682,4 +682,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
