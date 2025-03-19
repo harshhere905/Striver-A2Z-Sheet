@@ -154,6 +154,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3643-zero-array-transformation-ii) |
@@ -310,6 +311,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +409,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2358-number-of-ways-to-split-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Tree
@@ -545,6 +548,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
 | [2751-sliding-subarray-beauty](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2751-sliding-subarray-beauty) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Combinatorics
 |  |
@@ -562,6 +566,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
