@@ -1,21 +1,23 @@
- class Solution{
- public:
- int minOperations(vector<int>& nums) {
-        int n = nums.size();
-        int count = 0;
-        for(int i = 0; i < n - 2; i++){
-            if(nums[i] == 0){
-                for(int j = i; j < i + 3; j++){
-                    nums[j] = (nums[j] == 0) ? 1 : 0; 
+class Solution {
+public:
+    int minOperations(vector<int>& nums) {
+        int n=nums.size();
+        int flips=0;
+        int flipcount=0;
+        vector<bool>check(n,false);
+        for(int i=0;i<n;i++){
+            if(i>=3 && check[i-3]==true){
+                flipcount--;
+            }
+            if(flipcount%2==nums[i]){
+                if(i+3>n){
+                    return -1;
                 }
-                count++;
+                flips++;
+                flipcount++;
+                check[i]=true;
             }
         }
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == 0) {
-                return -1;
-            }
-        }
-        return count;
+        return flips;
     }
 };
