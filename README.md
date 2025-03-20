@@ -188,6 +188,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0347-top-k-frequent-elements) |
@@ -231,6 +232,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0066-plus-one](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0292-nim-game) |
@@ -362,6 +364,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0142-linked-list-cycle-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0349-intersection-of-two-arrays) |
