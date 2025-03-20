@@ -16,7 +16,7 @@ public:
             return true;
            }
            if(n%10==n && n!=1){
-              break;
+              return false;
            }
        }
        return false;
