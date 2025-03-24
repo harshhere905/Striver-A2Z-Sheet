@@ -164,6 +164,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3639-zero-array-transformation-i) |
@@ -357,6 +358,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
