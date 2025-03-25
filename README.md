@@ -63,6 +63,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0051-n-queens](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0066-plus-one) |
