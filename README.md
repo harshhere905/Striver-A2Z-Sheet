@@ -36,6 +36,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -151,6 +152,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
