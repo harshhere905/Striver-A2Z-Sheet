@@ -10,6 +10,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -497,6 +498,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
