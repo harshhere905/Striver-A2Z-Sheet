@@ -11,6 +11,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0032-longest-valid-parentheses](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -80,6 +81,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0198-house-robber) |
@@ -198,6 +200,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -507,6 +510,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0213-house-robber-ii) |
@@ -738,6 +742,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
 ## Database
 |  |
 | ------- |
@@ -755,4 +760,8 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
