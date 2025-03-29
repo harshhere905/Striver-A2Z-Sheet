@@ -173,6 +173,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -276,6 +277,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
@@ -307,6 +309,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -383,6 +386,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -564,6 +568,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -591,6 +596,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -601,6 +607,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0937-online-stock-span](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
 |  |
 | ------- |
