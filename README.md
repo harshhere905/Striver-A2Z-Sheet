@@ -19,6 +19,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0516-longest-palindromic-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
+| [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [1250-longest-common-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1250-longest-common-subsequence) |
@@ -222,6 +223,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -412,6 +414,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -564,6 +567,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
