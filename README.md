@@ -179,6 +179,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
