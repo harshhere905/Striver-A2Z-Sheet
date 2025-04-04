@@ -233,6 +233,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1034-subarrays-with-k-different-integers) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -495,6 +496,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -505,6 +507,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -520,6 +523,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -592,6 +596,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0322-coin-change](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack
