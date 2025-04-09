@@ -10,27 +10,26 @@
  * };
  */
 class Solution {
-    TreeNode* solve(vector<int>& preorder,vector<int>& inorder,int start,int end,int& idx){
-         if(start>end){
-            return NULL;
-         }
-         int rootval=preorder[idx];
-         int i=start;
-         for(;i<=end;i++){
-            if(inorder[i]==rootval){
-                break;
-            }
-         }
-         idx++;
-         TreeNode* root=new TreeNode(rootval);
-         root->left=solve(preorder,inorder,start,i-1,idx);
-         root->right=solve(preorder,inorder,i+1,end,idx);
-         return root;
-    }
 public:
+    TreeNode* solve(vector<int>&preorder,vector<int>&inorder,int& idx, int start,int end){
+       if(start>end){
+          return NULL;
+       }
+       int rootval=preorder[idx];
+       int i=start;
+       for(;i<=end;i++){
+          if(inorder[i]==rootval){
+            break;
+          }
+       }
+       idx++;
+       TreeNode* root= new TreeNode(rootval);
+       root->left=solve(preorder,inorder,idx,start,i-1);
+       root->right=solve(preorder,inorder,idx,i+1,end);
+       return root;
+    }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n=preorder.size();
         int idx=0;
-        return solve(preorder,inorder,0,n-1,idx);
+        return solve(preorder,inorder,idx,0,preorder.size()-1);
     }
 };
