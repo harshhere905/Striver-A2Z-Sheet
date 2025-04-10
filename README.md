@@ -45,6 +45,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3451-string-compression-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String Matching
@@ -297,6 +298,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
@@ -577,6 +579,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2262-solving-questions-with-brainpower](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2262-solving-questions-with-brainpower) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Union Find
 |  |
 | ------- |
