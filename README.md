@@ -291,6 +291,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2610-closest-prime-numbers-in-range) |
@@ -758,6 +759,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0206-reverse-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0394-decode-string) |
+| [2050-count-good-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
 | ------- |
