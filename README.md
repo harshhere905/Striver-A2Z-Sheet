@@ -102,6 +102,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0349-intersection-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -565,6 +566,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0300-longest-increasing-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0494-target-sum) |
