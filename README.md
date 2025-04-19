@@ -527,6 +527,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
@@ -542,6 +543,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
@@ -561,6 +563,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
@@ -680,6 +683,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0051-n-queens) |
+| [0113-path-sum-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2107-find-unique-binary-string) |
