@@ -181,6 +181,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2681-put-marbles-in-bags](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2751-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
@@ -379,6 +380,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
@@ -426,6 +428,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
@@ -465,6 +468,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2265-partition-array-according-to-given-pivot](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Divide and Conquer
