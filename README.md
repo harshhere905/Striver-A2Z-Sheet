@@ -546,6 +546,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0832-binary-tree-pruning) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1207-delete-nodes-and-return-forest) |
@@ -563,6 +564,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -584,6 +586,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0832-binary-tree-pruning) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1207-delete-nodes-and-return-forest) |
@@ -666,6 +669,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
