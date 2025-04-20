@@ -15,19 +15,18 @@ public:
        if(!root){
         return 0;
        }
-       int cnt=1;
+       int cnt=0;
        queue<TreeNode*>qp;
        qp.push(root);
        while(qp.size()!=0){
           TreeNode* temp=qp.front();
           qp.pop();
+          cnt++;
           if(temp->left){
              qp.push(temp->left);
-             cnt++;
           }
           if(temp->right){
              qp.push(temp->right);
-             cnt++;
           }
        }
        return cnt; 
