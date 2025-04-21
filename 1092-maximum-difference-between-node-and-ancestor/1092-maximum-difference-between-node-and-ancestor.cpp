@@ -11,22 +11,17 @@
  */
 class Solution {
 public:
-    int maxdiff=-1;
-    void finddiff(TreeNode* ancestor,TreeNode* child){
-        if(!ancestor || !child) return;
-        maxdiff=max(maxdiff,abs(ancestor->val-child->val));
-        finddiff(ancestor,child->left);
-        finddiff(ancestor,child->right);
+    int calculate(TreeNode* root,int mini,int maxi){
+        if(!root){
+            return abs(maxi-mini);
+        }
+        mini=min(mini,root->val);
+        maxi=max(maxi,root->val);
+        int l=calculate(root->left,mini,maxi);
+        int r=calculate(root->right,mini,maxi);
+        return max(l,r);
     }
-    void calculate(TreeNode* root){
-        if(!root) return;
-        finddiff(root,root->left);
-        finddiff(root,root->right);
-        calculate(root->left);
-        calculate(root->right);
-    }
-    int maxAncestorDiff(TreeNode* root){
-        calculate(root);
-        return maxdiff;
+    int maxAncestorDiff(TreeNode* root) {
+        return calculate(root,root->val,root->val);
     }
 };
