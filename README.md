@@ -18,6 +18,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
@@ -302,6 +303,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0367-valid-perfect-square](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
+| [0556-next-greater-element-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0556-next-greater-element-iii) |
 | [0790-global-and-local-inversions](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
 | [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
@@ -467,6 +469,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0455-assign-cookies](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
