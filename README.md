@@ -547,6 +547,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
@@ -569,6 +570,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
@@ -594,6 +596,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
@@ -626,6 +629,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0198-house-robber) |
