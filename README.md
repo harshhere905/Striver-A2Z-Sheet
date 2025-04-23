@@ -263,6 +263,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -309,6 +310,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1370-count-number-of-nice-subarrays) |
+| [1500-count-largest-group](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1993-sum-of-all-subset-xor-totals) |
