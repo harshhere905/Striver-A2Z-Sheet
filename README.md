@@ -555,6 +555,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -579,6 +580,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
@@ -606,6 +608,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -711,6 +714,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0084-largest-rectangle-in-histogram](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
