@@ -252,6 +252,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
@@ -563,6 +564,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0832-binary-tree-pruning](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -588,6 +590,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0832-binary-tree-pruning](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -618,6 +621,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0832-binary-tree-pruning](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0998-check-completeness-of-a-binary-tree) |
