@@ -576,6 +576,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -602,6 +603,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -635,6 +637,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -674,6 +677,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1250-longest-common-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2415-count-the-number-of-ideal-arrays) |
