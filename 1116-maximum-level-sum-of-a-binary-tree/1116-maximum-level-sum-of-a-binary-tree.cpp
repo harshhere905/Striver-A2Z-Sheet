@@ -12,9 +12,6 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        if(!root){
-            return 0;
-        }
         int cnt=0;
         int maxsum=root->val;
         int ans=1;
@@ -35,9 +32,9 @@ public:
                 }
             }
             cnt++;
-            if(currsum > maxsum) {
-                maxsum = currsum;
-                ans = cnt;
+            if(maxsum<currsum){
+                maxsum=currsum;
+                ans=cnt;
             }
         }
         return ans;
