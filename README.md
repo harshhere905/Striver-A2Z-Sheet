@@ -176,6 +176,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -793,6 +794,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -822,11 +824,13 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Bucket Sort
 |  |
 | ------- |
