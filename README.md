@@ -575,6 +575,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -606,6 +607,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -642,6 +644,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
