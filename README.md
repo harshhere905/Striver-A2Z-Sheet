@@ -10,6 +10,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
@@ -301,6 +302,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0007-reverse-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0066-plus-one) |
@@ -355,6 +357,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2265-partition-array-according-to-given-pivot) |
