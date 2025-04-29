@@ -6,7 +6,7 @@ public:
         long long cnt=0;
         int n=nums.size();
         unordered_map<int,int>mp;
-        for(int j=0;j<nums.size();j++){
+        for(int j=0;j<n;j++){
             mp[nums[j]]++;
             while(mp[maxi]>=k){
                 cnt+=n-j;
