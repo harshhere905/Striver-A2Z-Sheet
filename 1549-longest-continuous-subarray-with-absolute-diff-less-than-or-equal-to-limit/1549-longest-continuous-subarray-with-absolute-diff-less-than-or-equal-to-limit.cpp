@@ -6,8 +6,10 @@ public:
         multiset<int>st;
         for(int j=0;j<nums.size();j++){
             st.insert(nums[j]);
-            while(*st.rbegin() - *st.begin() > limit){
+            int diff=*st.rbegin()-*st.begin();
+            while(diff>limit){
                 st.erase(st.find(nums[i]));
+                diff=*st.rbegin()-*st.begin();
                 i++;
             }
             cnt=max(cnt,j-i+1);
