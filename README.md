@@ -204,6 +204,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
@@ -809,6 +810,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2626-count-the-number-of-good-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Combinatorics
