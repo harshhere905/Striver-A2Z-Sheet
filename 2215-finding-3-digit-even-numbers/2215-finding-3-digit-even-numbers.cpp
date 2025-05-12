@@ -31,7 +31,7 @@ public:
             return {};
         }
         vector<int>res;
-        for(int i=100;i<=999;i++){
+        for(int i=100;i<=998;i++){
             if(i%2!=0){
                 continue;
             }
