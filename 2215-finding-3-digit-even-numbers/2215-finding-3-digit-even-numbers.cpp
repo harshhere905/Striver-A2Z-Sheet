@@ -7,7 +7,12 @@ public:
             num=num/10;
         }
         for(auto it:temp){
-            if(it.second>mp[it.first]){
+            if(mp.find(it.first)!=mp.end()){
+                if(it.second>mp[it.first]){
+                   return false;
+                }
+            }
+            else{
                 return false;
             }
         }
