@@ -53,6 +53,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3451-string-compression-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -312,6 +313,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -372,6 +374,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -484,6 +487,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -760,6 +764,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2681-put-marbles-in-bags](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
