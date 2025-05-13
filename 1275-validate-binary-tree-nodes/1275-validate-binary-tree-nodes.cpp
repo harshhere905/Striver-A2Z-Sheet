@@ -35,19 +35,19 @@ public:
         }
         if(root == -1)
             return false;
-        vector<bool> visited(n, false);
+        //vector<bool> visited(n, false);
         queue<int> que;
         int count = 1;
         que.push(root);
-        visited[root] = true;
+        //visited[root] = true;
         while(!que.empty()) { 
             int node = que.front();
             que.pop();
             for(int &child : parent_to_child[node]) {
-                    if(visited[child]){
-                        return false;
-                    }
-                    visited[child] = true;
+                    // if(visited[child]){
+                    //     return false;
+                    // }
+                    //visited[child] = true;
                     count++;
                     que.push(child);
             }
