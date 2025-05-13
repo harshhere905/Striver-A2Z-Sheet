@@ -623,6 +623,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1450-delete-leaves-with-a-given-value](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -656,6 +657,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1450-delete-leaves-with-a-given-value](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2793-count-the-number-of-complete-components](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -696,6 +698,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1450-delete-leaves-with-a-given-value](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
