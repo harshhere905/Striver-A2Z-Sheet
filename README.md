@@ -298,6 +298,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2308-divide-array-into-equal-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2447-merge-similar-items](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2447-merge-similar-items) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -624,6 +625,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -658,6 +660,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -699,6 +702,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -793,6 +797,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1275-validate-binary-tree-nodes) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack
