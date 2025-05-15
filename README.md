@@ -48,6 +48,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3451-string-compression-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3451-string-compression-iii) |
@@ -206,6 +207,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -748,6 +750,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2415-count-the-number-of-ideal-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
@@ -777,6 +780,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2664-maximize-greatness-of-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Breadth-First Search
