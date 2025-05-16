@@ -1,19 +1,26 @@
 class MyHashSet {
 public:
-    unordered_map<int,bool>mp; 
+    vector<int>arr=vector<int>(1000001,-1); 
     MyHashSet() {
     }
     
     void add(int key) {
-        mp[key]=true;
+        if(arr[key]==-1){
+            arr[key]=1;
+        }
     }
 
     void remove(int key) {
-         mp.erase(key);         
+         arr[key]=-1;
     }
     
     bool contains(int key) {
-        return mp.find(key)!=mp.end();
+       if(arr[key]!=-1){
+        return true;
+       }
+       else{
+       return false;
+       }
     }
 };
 
