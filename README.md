@@ -129,6 +129,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0790-global-and-local-inversions](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
@@ -278,6 +279,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -930,6 +932,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0445-add-two-numbers-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0725-split-linked-list-in-parts) |
+| [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0838-design-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1765-merge-in-between-linked-lists) |
@@ -970,6 +973,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0146-lru-cache](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0937-online-stock-span) |
 ## Quickselect
@@ -1049,4 +1053,8 @@ This repository is my personal collection of problems and solutions from the Str
 | [2998-count-symmetric-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3548-find-the-count-of-good-integers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3849-equal-sum-grid-partition-i) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
