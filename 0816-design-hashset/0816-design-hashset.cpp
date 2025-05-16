@@ -1,13 +1,11 @@
 class MyHashSet {
 public:
-    unordered_map<int,int>mp; 
+    unordered_map<int,bool>mp; 
     MyHashSet() {
     }
     
     void add(int key) {
-        if(mp.find(key)==mp.end()){
-            mp[key]++;
-        }
+        mp[key]=true;
     }
 
     void remove(int key) {
