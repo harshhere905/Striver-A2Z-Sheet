@@ -8,7 +8,7 @@ public:
        if(dp[i][check]!=-1){
         return dp[i][check];
        }
-       int profit=0;
+    //    int profit=0;
        if(check){
           int buy=-prices[i]+solve(prices,i+1,0);
           int skip=solve(prices,i+1,1);
