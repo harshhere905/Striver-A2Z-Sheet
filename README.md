@@ -761,6 +761,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
