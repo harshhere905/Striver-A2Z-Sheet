@@ -36,6 +36,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1651-shuffle-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -302,6 +303,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1500-count-largest-group](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -385,6 +387,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
