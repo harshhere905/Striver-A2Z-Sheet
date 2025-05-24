@@ -138,6 +138,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0817-design-hashmap](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0817-design-hashmap) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
@@ -487,6 +488,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0455-assign-cookies](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -536,6 +538,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0647-palindromic-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -797,6 +800,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
+| [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
