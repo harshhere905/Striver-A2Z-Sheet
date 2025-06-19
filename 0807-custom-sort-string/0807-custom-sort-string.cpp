@@ -19,6 +19,7 @@ public:
                 temp+=it;
             }
         }
+        sort(temp.begin(),temp.end());
         ans+=temp;
         return ans;
     }
