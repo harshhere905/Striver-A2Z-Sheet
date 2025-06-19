@@ -26,6 +26,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0680-valid-palindrome-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [1250-longest-common-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1250-longest-common-subsequence) |
@@ -291,6 +292,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
+| [0807-custom-sort-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -493,6 +495,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0455-assign-cookies](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
+| [0807-custom-sort-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
