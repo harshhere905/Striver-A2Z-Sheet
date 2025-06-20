@@ -59,6 +59,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3451-string-compression-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String Matching
 |  |
@@ -337,6 +338,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
@@ -385,6 +387,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3548-find-the-count-of-good-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
@@ -401,6 +404,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Simulation
 |  |
