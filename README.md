@@ -101,6 +101,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0198-house-robber) |
@@ -435,6 +436,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0278-first-bad-version) |
