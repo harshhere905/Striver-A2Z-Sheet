@@ -45,6 +45,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2186-count-vowel-substrings-of-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
@@ -412,6 +413,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0043-multiply-strings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
