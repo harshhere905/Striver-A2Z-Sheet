@@ -182,6 +182,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2107-find-unique-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
@@ -262,6 +263,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2681-put-marbles-in-bags) |
@@ -321,6 +323,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -514,6 +517,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2274-keep-multiplying-found-values-by-two) |
