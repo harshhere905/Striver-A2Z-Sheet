@@ -133,6 +133,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0739-daily-temperatures) |
@@ -299,6 +300,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0496-next-greater-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
@@ -405,6 +407,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0229-majority-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -511,6 +514,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
 | [0807-custom-sort-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
@@ -915,6 +919,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
