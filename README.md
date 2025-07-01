@@ -148,6 +148,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
+| [0932-monotonic-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
