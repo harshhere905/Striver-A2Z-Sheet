@@ -15,6 +15,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0038-count-and-say](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0344-reverse-string) |
@@ -281,6 +282,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0128-longest-consecutive-sequence) |
@@ -919,6 +921,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
