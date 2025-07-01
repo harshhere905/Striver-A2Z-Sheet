@@ -6,21 +6,12 @@ public:
        for(int i=0;i<nums.size()-1;i++){
            if(nums[i]>nums[i+1]){
               increasing=false;
-              break;
            }
-       } 
-       if(increasing){
-          return true;
-       }
-       else{
-          for(int i=0;i<nums.size()-1;i++){
            if(nums[i]<nums[i+1]){
               decreasing=false;
-              break;
            }
-         }
-       }
-       if(decreasing){
+       } 
+       if(increasing || decreasing){
           return true;
        }
        return false;
