@@ -61,6 +61,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3451-string-compression-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
