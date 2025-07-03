@@ -402,6 +402,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3321-type-of-triangle](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -437,6 +438,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3220-count-tested-devices-after-test-operations](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -498,6 +500,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1044,6 +1047,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0234-palindrome-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
