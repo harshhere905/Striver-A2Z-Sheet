@@ -170,6 +170,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1524-string-matching-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1524-string-matching-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -267,6 +268,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1127-last-stone-weight) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -528,6 +530,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -847,6 +850,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
