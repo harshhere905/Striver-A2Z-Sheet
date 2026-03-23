@@ -173,6 +173,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1524-string-matching-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1524-string-matching-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1651-shuffle-string) |
@@ -626,6 +627,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0073-set-matrix-zeroes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -817,6 +819,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2262-solving-questions-with-brainpower) |
