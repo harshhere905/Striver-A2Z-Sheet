@@ -205,6 +205,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2358-number-of-ways-to-split-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2447-merge-similar-items](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2447-merge-similar-items) |
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -272,6 +273,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2681-put-marbles-in-bags) |
@@ -482,6 +484,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2280-count-good-triplets-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2665-minimum-time-to-repair-cars) |
@@ -653,6 +656,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2249-count-the-hidden-sequences](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2915-count-of-interesting-subarrays) |
@@ -943,6 +947,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -979,6 +984,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
@@ -986,6 +992,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Bucket Sort
 |  |
