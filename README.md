@@ -147,6 +147,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0817-design-hashmap) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
@@ -273,6 +274,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0347-top-k-frequent-elements](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -478,6 +480,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0792-binary-search](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0792-binary-search) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -650,6 +653,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0303-range-sum-query-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -949,6 +953,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0239-sliding-window-maximum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -992,6 +997,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1002,6 +1008,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
