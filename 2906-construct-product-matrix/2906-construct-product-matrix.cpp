@@ -6,7 +6,7 @@ public:
        vector<int>flat;
        for(int i=0;i<n;i++){
           for(int j=0;j<m;j++){
-              flat.push_back(grid[i][j]%12345);
+              flat.push_back(grid[i][j]);
           }
        } 
        vector<long long>prefix(flat.size()+1,1);
