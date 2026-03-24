@@ -233,6 +233,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2906-construct-product-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -636,6 +637,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2906-construct-product-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2906-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3849-equal-sum-grid-partition-i) |
@@ -661,6 +663,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2906-construct-product-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3639-zero-array-transformation-i) |
