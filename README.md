@@ -126,6 +126,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -475,6 +476,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0611-valid-triangle-number) |
@@ -652,6 +654,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0209-minimum-size-subarray-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
@@ -819,6 +822,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0494-target-sum) |
@@ -858,6 +862,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0455-assign-cookies) |
