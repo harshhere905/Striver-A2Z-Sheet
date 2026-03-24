@@ -109,6 +109,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0169-majority-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0229-majority-element-ii) |
@@ -462,6 +463,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0035-search-insert-position](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0278-first-bad-version) |
@@ -644,6 +646,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0560-subarray-sum-equals-k) |
@@ -942,6 +945,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
