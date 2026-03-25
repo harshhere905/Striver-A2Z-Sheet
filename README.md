@@ -86,6 +86,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0048-rotate-image](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
@@ -808,6 +809,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0005-longest-palindromic-substring](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0064-minimum-path-sum) |
@@ -866,6 +868,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0435-non-overlapping-intervals) |
