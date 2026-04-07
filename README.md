@@ -153,6 +153,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0817-design-hashmap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0874-walking-robot-simulation](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0874-walking-robot-simulation) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
@@ -330,6 +331,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0807-custom-sort-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0817-design-hashmap) |
+| [0874-walking-robot-simulation](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -450,6 +452,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0043-multiply-strings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0874-walking-robot-simulation) |
 | [2232-adding-spaces-to-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2265-partition-array-according-to-given-pivot) |
