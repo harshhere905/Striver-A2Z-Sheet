@@ -269,6 +269,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3643-zero-array-transformation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -463,6 +464,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -643,6 +645,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0347-top-k-frequent-elements](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |
