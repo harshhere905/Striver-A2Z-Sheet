@@ -2,16 +2,17 @@ class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
         int ans=INT_MAX;
-        int n=nums.size();
-        for(int i=0;i<n-2;i++){
-            for(int j=i+1;j<n-1;j++){
-                if(nums[j]==nums[i]){
-                   for(int k=j+1;k<n;k++){
-                       if(nums[k]==nums[j]){
-                          ans=min(ans,abs(i - j) + abs(j - k) + abs(k - i));
-                       }
-                   } 
-                }
+        unordered_map<int,vector<int>>mp;
+        for(int i=0;i<nums.size();i++){
+           mp[nums[i]].push_back(i);
+        }
+        for(auto it:mp){
+            if(it.second.size()>=3){
+               for(int i=0;i<it.second.size()-2;i++){
+                   int j=i+1;
+                   int k=i+2;
+                   ans=min(ans,abs(it.second[i] - it.second[j]) + abs(it.second[j] - it.second[k]) + abs(it.second[k] - it.second[i]));
+               }
             }
         }
         return ans==INT_MAX?-1:ans;
