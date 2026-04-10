@@ -273,6 +273,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3849-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
 |  |
@@ -377,6 +378,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
