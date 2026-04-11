@@ -147,6 +147,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0747-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0766-toeplitz-matrix) |
 | [0790-global-and-local-inversions](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
@@ -660,6 +661,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0073-set-matrix-zeroes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0766-toeplitz-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0766-toeplitz-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
