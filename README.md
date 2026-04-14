@@ -219,6 +219,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2447-merge-similar-items](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2447-merge-similar-items) |
+| [2463-minimum-total-distance-traveled](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
@@ -574,6 +575,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2447-merge-similar-items](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2447-merge-similar-items) |
+| [2463-minimum-total-distance-traveled](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -871,6 +873,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2262-solving-questions-with-brainpower](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-total-distance-traveled) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
