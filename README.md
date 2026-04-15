@@ -54,6 +54,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2465-shifting-letters-ii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
@@ -225,6 +226,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2551-apply-operations-to-an-array) |
