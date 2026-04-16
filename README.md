@@ -267,6 +267,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3488-closest-equal-element-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3582-find-indices-of-stable-mountains) |
@@ -379,6 +380,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
+| [3488-closest-equal-element-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3488-closest-equal-element-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -523,6 +525,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2665-minimum-time-to-repair-cars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3488-closest-equal-element-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3488-closest-equal-element-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
