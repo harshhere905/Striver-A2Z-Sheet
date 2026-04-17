@@ -281,6 +281,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3849-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
 |  |
@@ -389,6 +390,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
@@ -439,6 +441,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Counting
 |  |
 | ------- |
