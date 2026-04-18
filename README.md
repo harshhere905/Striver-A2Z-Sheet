@@ -442,6 +442,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
 |  |
 | ------- |
