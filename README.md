@@ -29,6 +29,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0680-valid-palindrome-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
@@ -78,6 +79,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
