@@ -195,6 +195,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -585,6 +586,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -924,6 +926,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
