@@ -252,6 +252,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2751-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
+| [2784-check-if-array-is-good](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -384,6 +385,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2751-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
+| [2784-check-if-array-is-good](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -603,6 +605,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2664-maximize-greatness-of-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2784-check-if-array-is-good](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
