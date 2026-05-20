@@ -244,6 +244,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2681-put-marbles-in-bags) |
@@ -383,6 +384,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2751-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2755-extra-characters-in-a-string) |
@@ -557,6 +559,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2308-divide-array-into-equal-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2478-longest-nice-subarray) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
