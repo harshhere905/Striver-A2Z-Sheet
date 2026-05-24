@@ -79,6 +79,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
@@ -763,6 +764,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -799,6 +801,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -840,6 +843,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0437-path-sum-iii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1249,6 +1253,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
