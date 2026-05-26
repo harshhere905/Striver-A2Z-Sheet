@@ -66,6 +66,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -398,6 +399,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2915-count-of-interesting-subarrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3488-closest-equal-element-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3548-find-the-count-of-good-integers) |
