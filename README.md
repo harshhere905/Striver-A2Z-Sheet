@@ -293,6 +293,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3643-zero-array-transformation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -559,6 +560,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2699-count-the-number-of-fair-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3488-closest-equal-element-queries](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
@@ -634,6 +636,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3321-type-of-triangle](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3430-count-days-without-meetings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
@@ -683,6 +686,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -970,6 +974,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Breadth-First Search
 |  |
