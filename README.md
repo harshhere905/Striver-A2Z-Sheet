@@ -300,6 +300,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -975,6 +976,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3689-maximum-total-subarray-value-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Breadth-First Search
 |  |
