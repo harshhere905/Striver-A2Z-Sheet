@@ -76,6 +76,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3617-find-the-original-typed-string-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3838-weighted-word-mapping](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3838-weighted-word-mapping) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String Matching
 |  |
@@ -304,6 +305,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3838-weighted-word-mapping) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3849-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
 |  |
@@ -508,6 +510,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
