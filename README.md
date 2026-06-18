@@ -446,6 +446,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0797-rabbits-in-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0797-rabbits-in-forest) |
 | [0944-smallest-range-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1500-count-largest-group) |
