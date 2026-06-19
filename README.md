@@ -205,6 +205,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1677-matrix-diagonal-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1732-find-the-highest-altitude](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -749,6 +750,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1206-corporate-flight-bookings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1732-find-the-highest-altitude](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1732-find-the-highest-altitude) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2059-unique-length-3-palindromic-subsequences) |
