@@ -209,6 +209,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1833-maximum-ice-cream-bars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -618,6 +619,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -970,6 +972,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1291,4 +1294,8 @@ This repository is my personal collection of problems and solutions from the Str
 | [0572-subtree-of-another-tree](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0817-design-hashmap) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
