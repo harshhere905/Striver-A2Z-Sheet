@@ -33,6 +33,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0807-custom-sort-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0878-shifting-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -373,6 +374,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0966-binary-subarrays-with-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -485,6 +487,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0451-sort-characters-by-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
