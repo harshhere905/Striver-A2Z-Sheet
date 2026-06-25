@@ -306,6 +306,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -421,6 +422,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -497,6 +499,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2833-furthest-point-from-origin](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2833-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Simulation
@@ -719,6 +722,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0954-maximum-sum-circular-subarray](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -771,6 +775,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3546-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3643-zero-array-transformation-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3849-equal-sum-grid-partition-i) |
 ## Tree
 |  |
@@ -1188,6 +1193,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0148-sort-list](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2280-count-good-triplets-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1224,6 +1230,7 @@ This repository is my personal collection of problems and solutions from the Str
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2280-count-good-triplets-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
