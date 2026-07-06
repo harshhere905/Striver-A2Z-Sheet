@@ -188,6 +188,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1206-corporate-flight-bookings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1207-delete-nodes-and-return-forest) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1288-remove-covered-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1370-count-number-of-nice-subarrays) |
@@ -622,6 +623,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [0917-boats-to-save-people](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0946-smallest-range-ii) |
+| [1288-remove-covered-intervals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1288-remove-covered-intervals) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
