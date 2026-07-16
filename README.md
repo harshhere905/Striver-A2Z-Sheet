@@ -1295,6 +1295,7 @@ This repository is my personal collection of problems and solutions from the Str
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2037-count-square-sum-triples) |
