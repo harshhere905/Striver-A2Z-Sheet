@@ -476,6 +476,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [3227-find-missing-and-repeated-values](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3321-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1303,6 +1304,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2037-count-square-sum-triples](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2037-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2998-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3548-find-the-count-of-good-integers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3849-equal-sum-grid-partition-i) |
