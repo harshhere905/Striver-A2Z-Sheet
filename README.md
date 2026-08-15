@@ -276,6 +276,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2915-count-of-interesting-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -417,6 +418,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2915-count-of-interesting-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1101,6 +1103,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [2626-count-the-number-of-good-subarrays](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
