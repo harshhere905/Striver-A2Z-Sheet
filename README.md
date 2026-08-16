@@ -221,6 +221,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2029-stone-game-ix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2107-find-unique-binary-string](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2126-destroying-asteroids) |
@@ -468,6 +469,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2029-stone-game-ix) |
 | [2037-count-square-sum-triples](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -504,6 +506,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1189-maximum-number-of-balloons](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2029-stone-game-ix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2486-most-frequent-even-element](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2486-most-frequent-even-element) |
@@ -996,6 +999,7 @@ This repository is my personal collection of problems and solutions from the Str
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1264,6 +1268,7 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2029-stone-game-ix) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1327,4 +1332,16 @@ This repository is my personal collection of problems and solutions from the Str
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/1833-maximum-ice-cream-bars) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harshhere905/Striver-A2Z-Sheet/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
